@@ -46,14 +46,6 @@
       padding: 0.7em 0;
     }
 
-    img.logo {
-
-      @include breakpoint(large up) {
-        height: 40px;
-        max-width: 8rem;
-      }
-    }
-
     #main-navigation__content {
 
       ul {
