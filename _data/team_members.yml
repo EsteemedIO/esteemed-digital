@@ -7,10 +7,6 @@
   img: /img/team/Beth-McGrath.jpeg
   img_alt: Beth McGrath
   title: Chief Operating Officer
-- name: Alex Novak
-  img: /img/team/Alex Novak.jpg
-  img_alt: Alex Novak
-  title: Developer
 - name: Rob Schaust
   img: /img/team/Rob Schaust.jpg
   img_alt: Rob Schaust
@@ -23,14 +19,18 @@
   img: /img/team/Rodney Little.jpeg
   img_alt: Rodney Little
   title: Principal UX Researcher & Service Designer
-- name: Sandeep Madiwall
-  img: /img/team/Sandeep Madiwall.jpeg
-  img_alt: Sandeep Madiwall
+- name: Sandeep Madiwal
+  img: /img/team/Sandeep Madiwal.jpg
+  img_alt: Sandeep Madiwal
   title: Project Management Principal
 - name: Shannon Nora Medlin
   img: /img/team/Shannon Nora Medlin.jpg
   img_alt: Shannon Nora Medlin
   title: Technical Project Manager
+- name: Alex Novak
+  img: /img/team/Alex Novak.jpg
+  img_alt: Alex Novak
+  title: Senior Developer
 - name: Julia Panchenko
   img: /img/team/Julia Panchenko.png
   img_alt: Julia Panchenko
