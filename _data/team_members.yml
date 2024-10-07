@@ -27,10 +27,18 @@
   img: /img/team/Shannon Nora Medlin.jpg
   img_alt: Shannon Nora Medlin
   title: Technical Project Manager
+- name: Boris Smirnov
+  img: /img/team/Boris Smirnov.jpeg
+  img_alt: Boris Smirnov
+  title: Technical Architect and Senior Full-stack Developer
 - name: Alex Novak
   img: /img/team/Alex Novak.jpg
   img_alt: Alex Novak
-  title: Senior Developer
+  title: Senior Back-end Developer
+- name: Michael Nielson
+  img: /img/team/Michael Nielson.png
+  img_alt: Michael Nielson
+  title: Senior Back-end Developer
 - name: Julia Panchenko
   img: /img/team/Julia Panchenko.png
   img_alt: Julia Panchenko
