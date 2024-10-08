@@ -1856,6 +1856,7 @@ body {
     @include breakpoint(small only) {
       .image-wrapper {
         max-width: 100%;
+        height: auto !important;
         //width: 246px;
       }
 
@@ -1920,10 +1921,13 @@ body {
 
     img {
       border-radius: 5px !important;
+      object-fit: cover;
     }
 
     .image-wrapper {
       width: 290px !important;
+      height: 290px;
+      display: flex;
     }
 
     .rounded-circle {
@@ -1932,6 +1936,7 @@ body {
 
     .member-title {
       font-size: 1.125rem;
+      text-align: center;
     }
   }
 }
